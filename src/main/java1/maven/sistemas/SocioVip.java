@@ -2,6 +2,7 @@ package sistemas;
 
 public class SocioVip extends Usuario {
 	
+	
 	private String codigoVip;
 	private String fechaCumple;
 	
